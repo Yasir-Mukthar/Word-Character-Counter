@@ -1,0 +1,37 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+body{
+    padding: 100px;
+    text-align: center;
+    width: 100vw;
+    height: 100vh;
+}
+.center{
+    margin: 0px auto;
+    width: 500px;
+    height: 300px; 
+    
+    
+}
+h1{
+    background-color: green;
+    color: white;
+    font-size: 35px;
+    border-radius: 5px;
+    
+}
+textarea{
+    width: 90%;
+    border-color: green;
+    margin:10px 0px;
+    font-size: 20px;
+}
+h3{
+    border-radius: 5px;
+    background-color: green;
+    color: white;
+    font-size: 30px;
+}
